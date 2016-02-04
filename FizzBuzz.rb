@@ -1,15 +1,15 @@
-1.upto(100) do |i|
-if i % 5 == 0 and i % 3 == 0
-puts "FizzBuzz"
+1.upto(100) do |lol|
+if lol % 5 == 0 and i % 3 == 0
+puts "FizzzBuzzz"
 
-elsif i % 5 == 0
-puts "Buzz"
+elsif lol % 5 == 0
+puts "Buzzz"
 
-elsif i % 3 == 0
-puts "Fizz"
+elsif lol % 3 == 0
+puts "Fizzz"
 
 else
-puts i
+puts lol
 #K3vro1337
 end
 end
