@@ -1,5 +1,5 @@
 1.upto(100) do |lol|
-if lol % 5 == 0 and i % 3 == 0
+if lol % 5 == 0 and lol % 3 == 0
 puts "FizzzBuzzz"
 
 elsif lol % 5 == 0
